@@ -44,7 +44,9 @@ The results of this project are summarized below:
     - They all patronize the Region 3 store more.
     - They all favor Channel 2 more for Groceries and Detergent Paper
 
-a copy of the Report is  shown [here](https://www.example.com).
+a copy of the Report is  shown [here](https://github.com/Okunade-Daniel/Customer-Segmentation/blob/main/customer%20segmentation%20report.png).
+
+The Notebook for performing segmentation tasks and other analysis is found [here](https://github.com/Okunade-Daniel/Customer-Segmentation/blob/main/Customer%20Segmentation.ipynb)
 
 # Recommendations
 To Executives:
