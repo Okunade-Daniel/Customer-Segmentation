@@ -33,8 +33,8 @@ The results of this project are summarized below:
     - They utilize Channel 1 the most.
     - They patronize Region 3 store more than any other Region.
     - They spend more on Fresh products than any other product category.
--. The optimal number of clusters is 3 based on the elbow method. The clusters are then named based on the product they spend the most on. Segment 0 is named Grocery Buyers, Segment 1 is named Fresh Food Buyers and Segment 2 is named Budget Buyers.
--. The differences between the clusters are:
+- The optimal number of clusters is 3 based on the elbow method. The clusters are then named based on the product they spend the most on. Segment 0 is named Grocery Buyers, Segment 1 is named Fresh Food Buyers and Segment 2 is named Budget Buyers.
+- The differences between the clusters are:
     - They differ in their product and channel preferences given the amount they spend on average on them. Grocery Buyers spend more on Channel 2 for all their products except Delicassen which they prefer Channel 1 for. Fresh Food Buyers spend more on Channel 2 for all their products except Frozen and Milk products. Except for Frozen and Delicassen products which Segment 2 likes Channel 1 for, they prefer Channel 2 for other types of products.
     - The segments have different patterns of spending across products. For example, Grocery Buyers are the overall highest spender on Grocery, Milk, and Detergent paper. Fresh Food Buyers spend more on Fresh, Frozen and, Delicassen products. Segment 2 was not the overall highest spender in any product category.
     - They have different spending patterns across regions. Grocery Buyers spend more in Region 1, Fresh Food Buyers spend more in Region -, while Budget Buyers spend more on Region 2 than any other region.
