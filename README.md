@@ -39,7 +39,7 @@ The results of this project are summarized below:
     - The segments have different patterns of spending across products. For example, Grocery Buyers are the overall highest spender on Grocery, Milk, and Detergent paper. Fresh Food Buyers spend more on Fresh, Frozen and, Delicassen products. Segment 2 was not the overall highest spender in any product category.
     - They have different spending patterns across regions. Grocery Buyers spend more in Region 1, Fresh Food Buyers spend more in Region -, while Budget Buyers spend more on Region 2 than any other region.
    
--. The similarities between the clusters are
+- The similarities between the clusters are
     - They spend more on channel 2 than any other channel.
     - They all patronize the Region 3 store more.
     - They all favor Channel 2 more for Groceries and Detergent Paper
