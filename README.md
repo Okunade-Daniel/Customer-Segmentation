@@ -24,7 +24,7 @@ The data set has 8 variables:
 The methodology for this project consists of the following steps:
 - Data cleaning: Outliers in the data were treated, the data contained no missing values, and duplicates.
 - Data preprocessing and exploration: Standardize and normalize the numerical features. Perform exploratory data analysis (EDA) to understand the distribution, correlation, and summary statistics of the features. Visualize the data using histograms, boxplots, scatterplots, and heatmaps.
-- Data modeling: Apply unsupervised machine learning techniques such as K-means clustering and hierarchical clustering to group the customers into clusters based on their RFM features. Determine the optimal number of clusters using metrics such as silhouette score, elbow method, and gap statistic. Compare and evaluate the results of different clustering methods.
+- Data modeling: I applied unsupervised machine learning techniques such as K-means clustering  to group the customers into clusters based on their product preferences. Determine the optimal number of clusters using metrics such as silhouette score, elbow method, and gap statistic. Compare and evaluate the results of different clustering methods.
 - Data interpretation: Analyze and interpret the characteristics, differences, and similarities of each cluster. Provide insights and recommendations for business strategies based on the findings.
 # Results
 The results of this project are summarized below:
